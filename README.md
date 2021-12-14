@@ -1,2 +1,3 @@
-# Emotion_Recognition
-FER Emotion Recognition with LIME interpretability
+# Emotion Recognition
+
+# Goal of the Project
